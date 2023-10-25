@@ -1,4 +1,4 @@
-# Graph-Representation-Learning-Towards-Patents-Network-Analysis
+## Graph-Representation-Learning-Towards-Patents-Network-Analysis
 ```
 By Mohammad Heydari and Dr.Babak Teimourpour, Tarbiat Modares University, Tehran, Iran
 ```
@@ -10,7 +10,7 @@ You can have access to our papers by:
 * [On ArXiv](https://arxiv.org/abs/2309.13888)
 * [On ResearchGate](https://www.researchgate.net/publication/359002158_Graph_Representation_Learning_Towards_Patents_Network_Analysis)
 * [On IEEE Xplore](https://ieeexplore.ieee.org/iel7/9721437/9721438/09721515.pdf)
-# Cite
+## Cite
 You can cite to our paper if you find it useful for your research projects.
 ```
 @INPROCEEDINGS{9721515,
