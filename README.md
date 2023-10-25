@@ -7,7 +7,7 @@ You can have access to our papers by:
 * [On Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=graph+representation+learning+towards+patents+network+analysis&btnG=t)
 * [On ArXiv](https://arxiv.org/abs/2309.13888)
 * [On ResearchGate](https://www.researchgate.net/publication/359002158_Graph_Representation_Learning_Towards_Patents_Network_Analysis)
-* [On IEEEexplore](https://ieeexplore.ieee.org/iel7/9721437/9721438/09721515.pdf)
+* [On IEEE Xplore](https://ieeexplore.ieee.org/iel7/9721437/9721438/09721515.pdf)
 # Cite
 You can cite to our paper if you find it useful for your research projects.
 ```
