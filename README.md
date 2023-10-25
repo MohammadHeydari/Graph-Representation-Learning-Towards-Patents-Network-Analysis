@@ -1,6 +1,6 @@
 # Graph-Representation-Learning-Towards-Patents-Network-Analysis
 ```
-M. Heydari and B. Teimourpour, "Graph Representation Learning Towards Patents Network Analysis," 2021 11th International Conference on Computer Engineering and Knowledge (ICCKE), Mashhad, Iran, Islamic Republic of, 2021, pp. 235-241, doi: 10.1109/ICCKE54056.2021.9721515
+By Mohammad Heydari and Dr.Babak Teimourpour, Tarbiat Modares University, Tehran, Iran
 ```
 ## Paper
 You can have access to our papers by:
